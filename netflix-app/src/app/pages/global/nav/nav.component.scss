@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    padding: 20px;
+    .logo{
+        width: 100px;
+    }
+    ul{
+        display: flex;
+        justify-content:flex-end;
+        list-style: none;
+        li{
+            margin-right: 20px;
+            color: white;
+        }
+    }
+
+}
